@@ -1,0 +1,22 @@
+.colour {color:#F4A62A; } 
+
+a {color:#F4A62A;}
+a:hover {color:#333;}
+
+.lines-colour {color:#F4A62A; }
+
+blockquote { border-left:4px solid #F4A62A!important;  }
+
+.carousel-control.right, .carousel-control.left { color:#F4A62A;}
+
+.pager a .typcn { color:#F4A62A!important;}
+.pager a .typcn:hover { color:#222; }
+
+.nav-tabs .active a, .nav-tabs a:hover, .nav-tabs .active  a:focus { background-color:#F4A62A!important;}
+
+.list-group-item.price, .list-group-item .btn:hover, .service:hover  { background-color:#F4A62A!important; }
+
+::selection { background: #F4A62A; color: #fff; }
+::-moz-selection { background:#F4A62A; color: #fff; }
+
+.grid-loadMore:hover { color:#F4A62A!important; }
